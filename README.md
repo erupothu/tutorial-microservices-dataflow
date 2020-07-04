@@ -1,5 +1,8 @@
 # tutorial-microservices-dataflow
 
+> sudo service zookeeper start <br>
+> sudo service kafak start <br>
+
 
 Download Dafllow jar <br>
 http://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-dataflow-server-local/1.3.0.M1/spring-cloud-dataflow-server-local-1.3.0.M1.jar <br>
